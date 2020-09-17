@@ -450,6 +450,7 @@ body {
   display: grid;
   grid-auto-flow: column;
   justify-content: space-between;
+  place-items: center;
 }
 
 .my-subgrid {
@@ -460,4 +461,8 @@ body {
   width: 70%;
   fill: currentColor;
   
+}
+
+.panel-title {
+  font-size: 32px;
 }
