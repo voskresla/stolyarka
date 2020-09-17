@@ -466,3 +466,8 @@ body {
 .panel-title {
   font-size: 32px;
 }
+
+.my-second-string {
+  color: gray;
+  font-size: 18px;
+}
