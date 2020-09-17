@@ -457,6 +457,11 @@ body {
   display: grid;
 }
 
+.navbar-brand {
+  position: absolute;
+  
+}
+
 .navbar-brand svg {
   width: 70%;
   fill: currentColor;
